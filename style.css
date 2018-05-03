@@ -137,6 +137,9 @@ ul{
 /* mediaqueries */
 
 @media only screen and (max-width: 768px){
+    body{
+        color: #8f8b8b;
+    }
     .intro{
         display: none;
     }
