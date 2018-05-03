@@ -159,14 +159,16 @@ ul{
     .abt{
         font-size: 18px;
         margin-top: 30px;
-        height: 95vh;
+        height: 100vh;
         text-align: left;
     }
     .wrk{
+        margin-top: 100px;
         font-size: 18px;
         height: 40vh;
     }
     .cnt{
+        margin-top: 30px;
         font-size: 18px;
         height: 40vh;
         text-align: left;
@@ -179,7 +181,9 @@ ul{
     .links{
         padding-top: 50px;
     }
-    
+    .love{
+        display: none;
+    }
 }
 
 @media only screen and (min-width: 768px){
