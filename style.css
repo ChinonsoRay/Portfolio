@@ -141,15 +141,12 @@ ul{
         display: none;
     }
     .navbar{
-        height: 20px;
-        padding: 0;
+        height: 35px;
+        padding: 2%;
       }
-      ul{
-        font-size: 16px;
-      }
-      ul a{
-        margin-left:unset;
-      }
+    ul{
+    display: none;
+    }
     .img{
         display: none;
     }
@@ -161,7 +158,7 @@ ul{
     }
     .abt{
         font-size: 18px;
-        margin-top: 110px;
+        margin-top: 30px;
         height: 95vh;
         text-align: left;
     }
@@ -173,12 +170,16 @@ ul{
         font-size: 18px;
         height: 40vh;
         text-align: left;
-        margin-bottom: 5%;
+        margin-bottom: 7%;
     }
     .name{
         display: visible;
         margin-left: 25px;
     }
+    .links{
+        padding-top: 50px;
+    }
+    
 }
 
 @media only screen and (min-width: 768px){
