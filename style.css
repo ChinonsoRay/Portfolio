@@ -159,11 +159,11 @@ ul{
     .abt{
         font-size: 18px;
         margin-top: 30px;
-        height: 100vh;
+        height: 90vh;
         text-align: left;
     }
     .wrk{
-        margin-top: 100px;
+        margin-top: 70px;
         font-size: 18px;
         height: 40vh;
     }
@@ -176,7 +176,8 @@ ul{
     }
     .name{
         display: visible;
-        margin-left: 25px;
+        /* margin-left: 25px; */
+        justify-content: center;
     }
     .links{
         padding-top: 50px;
